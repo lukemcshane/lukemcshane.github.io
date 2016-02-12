@@ -4,6 +4,6 @@ title: Contact
 ---
 
 <p class="message">
-  Email: lukemcshane.net@gmail.com
+  Email: lmcshane.net@gmail.com
 </p>
 
