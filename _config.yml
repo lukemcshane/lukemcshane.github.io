@@ -1,0 +1,29 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Luke McShane
+url:                 http://www.lukemcshane.github.io
+paginate:            1
+baseurl:             ""
+
+# About/contact
+author:
+  name:              Luke McShane
+  email:             lmcshane.net@gmail.com
+
+# Pages for header
+pages_list:
+  About: '/about'
+  Contact: '/contact'
+  Archive: '/archive'
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/lukemcshane/lukemcshane.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
